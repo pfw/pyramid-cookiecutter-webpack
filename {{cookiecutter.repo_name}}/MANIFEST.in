@@ -1,0 +1,3 @@
+include CHANGES.rst
+include README.rst
+recursive-include {{ cookiecutter.repo_name }} *.jinja2 *.js *.css *.eot *.svg *.ttf *.woff *.woff2 *.otf *.png *.jpg *.jpeg *.ico *.json
